@@ -1,3 +1,4 @@
+#uses json data to read the dictionary
 import json 
 from difflib import get_close_matches
 
